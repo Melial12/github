@@ -1,0 +1,5 @@
+Senin : Python
+Selasa : Apsi
+Rabu : KWU
+Kamis :Database
+Jumat :PBO
